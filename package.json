@@ -1,0 +1,12 @@
+{
+  "name": "online-work",
+  "version": "1.0.0",
+  "description": "Online Work Website",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo \"Build script executed.\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
